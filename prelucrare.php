@@ -14,7 +14,7 @@ if(($_SESSION['nume'] == "") || ($_SESSION['prenume'] == "") || ($_SESSION['emai
      else {
        echo 'Va multumim. <br>        Datele au fost introduse cu succes in baza de date. <br>';
 	   
- $cerereSQL = "INSERT INTO `users` (`Name`, `Last-name`, `Email`,`Telefon`,`Adress`,`Password`)
+ $cerereSQL = "INSERT INTO `utilizatori` (`Name`, `Last-name`, `Email`,`Telefon`,`Adress`,`Password`)
    VALUES ('".$_SESSION['nume']."', '".$_SESSION['prenume']."', '".$_SESSION['email']."', '".$_SESSION['telefon']."', '".$_SESSION['adresa']."', '".$_SESSION['parola']."');";
     mysql_query($cerereSQL);
   

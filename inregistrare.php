@@ -1,11 +1,11 @@
 <html>
 <head>
-  <link rel="stylesheet" type="text/css" href="stylels.css">
+  <link rel="stylesheet" type="text/css" href="style/stylels.css">
 </head>
 <body>
 <h2 style="text-align:center; margin-top:30px;">Inregistrare</h2>
 
-<form action="../back-end/prelucrare.php" method="POST" style="margin-top:60px;">
+<form action="prelucrare.php" method="POST" style="margin-top:60px;">
   <div class="container">
 
     <label><b>Nume</b></label>
@@ -25,10 +25,9 @@
 	
 	<label><b>Parola</b></label>
     <input type="password" placeholder="Parola" name="parola"  >
-    <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
 
     <div class="clearfix">
-      <button type="submit" class="signupbtn">Sign Up</button>
+      <button type="submit" class="signupbtn">Inregistrare</button>
     </div>
   </div>
 </form>

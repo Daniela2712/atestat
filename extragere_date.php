@@ -2,7 +2,7 @@
 
 // Selectare dare din baza de date
 
-$cerereSQL = 'SELECT * FROM `users`';
+$cerereSQL = 'SELECT * FROM `utilizatori`';
 $rezultat = mysql_query($cerereSQL);
 while($rand = mysql_fetch_array($rezultat))
  {

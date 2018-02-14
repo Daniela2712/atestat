@@ -1,11 +1,11 @@
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="stylels.css">
+<link rel="stylesheet" type="text/css" href="style/stylels.css">
 </head>
 <body>
-<form action="../back-end/login.php" method="POST">
+<form action="login.php" method="POST">
   <div class="imgcontainer">
-    <img src="avatar.png" alt="Avatar" class="avatar">
+    <img src="resources/avatar.png" alt="Avatar" class="avatar">
   </div>
 
   <div class="container">
@@ -14,8 +14,8 @@
 
     <label><b>Parola</b></label>
     <input type="password" placeholder="Parola" name="parola" >
-
-    <button type="submit">Login</button>
+    <button type="submit">Autentificare</button>
+	<a href="inregistrare.php" target="_self" style="text-decoration:none; font-color:black; text-align:center;">Creaza un cont!<a><br>
   </div>
 </form>
 

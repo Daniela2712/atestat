@@ -11,7 +11,7 @@ if ($_POST['email'] != "" && $_POST['parola'] != '') {
     $parola = $_POST['parola'];
 
     // formeaza si executa query-ul de select din baza de date
-    $query = "SELECT * FROM `users` WHERE `Email` = '$email' AND `Password` = '$parola'";
+    $query = "SELECT * FROM `utilizatori` WHERE `Email` = '$email' AND `Password` = '$parola'";
     $result = mysql_query($query) or die ( "Error : ". mysql_error() );
     // verifica daca interogarea MySQL a gasit date valide
     if ( mysql_num_rows($result) < 1) {
