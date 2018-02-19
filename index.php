@@ -59,23 +59,18 @@
   </div>
   <div id="menu">
     <div id="vertical-menu">
-  <ul>
-      <li><a href="#" ><img src="resources/hardware.png" style="width:7%; height:4%; margin-right:3%;">Componente PC</a></li>
-              <ul>
-                  <li><a href="#">bla</a></li>
-                  <li><a href="#">bla</a></li>
-                  <li><a href="#">bla</a></li>
-              </ul>
-       <li><a href="#" ><img src="resources/mouse.png" style="width:7%; height:3%; margin-right:3%;">Periferice PC</a></li>
-       <li><a href="#"><img src="resources/softwere.png" style="width:7%; height:3%; margin-right:3%;">Softwere</a></li>
-       <li><a href="#"><img src="resources/print.png" style="width:7%; height:3%; margin-right:3%;">Imprimante</a></li>
-       <li><a href="#"><img src="resources/scaner.png" style="width:8%; height:4%; margin-right:3%;">Scanere</a></li>
-       <li><a href="#"><img src="resources/camera.png" style="width:8%; height:4%; margin-right:3%;">Retelistica si Supraveghere</a></li>
-       <li><a href="#"><img src="resources/laptop.png" style="width:8%; height:4%; margin-right:3%;">Laptopuri si Accesorii</a></li>
-       <li><a href="#" ><img src="resources/joystick.png" style="width:8%; height:4%; margin-right:3%;"> PC Gaming</a></li>
-       <li><a href="#"><img src="resources/joystick.png" style="width:8%; height:4%;margin-right:3%;">Accesorii PC Gaming</a></li>
-       <li><a href="#"><img src="resources/playstation.gif" style="width:8%; height:4%; margin-right:3%;">Playstation</a></li>
-  </ul>
+  
+       <a href="#"><img src="resources/hardware.png" style="width:7%; height:4%; margin-right:3%;">Componente PC</a></li>
+       <a href="#" ><img src="resources/mouse.png" style="width:7%; height:3%; margin-right:3%;">Periferice PC</a></li>
+       <a href="#"><img src="resources/softwere.png" style="width:7%; height:3%; margin-right:3%;">Softwere</a></li>
+       <a href="#"><img src="resources/print.png" style="width:7%; height:3%; margin-right:3%;">Imprimante</a></li>
+       <a href="#"><img src="resources/scaner.png" style="width:8%; height:4%; margin-right:3%;">Scanere</a></li>
+       <a href="#"><img src="resources/camera.png" style="width:8%; height:4%; margin-right:3%;">Retelistica si Supraveghere</a></li>
+       <a href="#"><img src="resources/laptop.png" style="width:8%; height:4%; margin-right:3%;">Laptopuri si Accesorii</a></li>
+       <a href="#" ><img src="resources/joystick.png" style="width:8%; height:4%; margin-right:3%;"> PC Gaming</a></li>
+       <a href="#"><img src="resources/joystick.png" style="width:8%; height:4%;margin-right:3%;">Accesorii PC Gaming</a></li>
+       <a href="#"><img src="resources/playstation.gif" style="width:8%; height:4%; margin-right:3%;">Playstation</a></li>
+
 </div>
 
 

@@ -174,7 +174,7 @@ input[type=text]:focus {
     color: black;
     padding: 5% 13%;
     text-decoration: none;
-    display: block;
+      display: block;
     text-align: left;
     font-size: 85%;
 }
@@ -184,70 +184,32 @@ input[type=text]:focus {
 .dropdown:hover .dropdown-content {
     display: block;
 }
-/*
-.vertical-menu {
+/
+#vertical-menu {
     width: 100%;
     height: 50%;
 
 }
 
-.vertical-menu a {
+#vertical-menu a {
     background-color: #f1f1f1;
-    color: black;
+    color: red;
     display: block;
     padding: 5%;
     text-decoration: none;
     padding: 4% 6%;
 }
 
-.vertical-menu a:hover {
-	background-color:#C91C1C;
-  color:white;
-	font-style:oblique;
-	cursor:pointer;
-	transition: all 0.4s;
-	text-shadow:1% 1% black;
-}
-
-.vertical-menu a:focus{
-
-	background-color:#C91C1C;
-  color:white;
-	font-style:oblique;
-	font-weight:bold;
-	cursor:pointer;
-	transition: all 0.4s;
-	text-shadow:1.3% 1.3% black;
-}
-*/
 #menu{
 	margin:0;
 	padding:0;
 }
-#vertical-menu ul {
+#vertical-menu  {
 	list-style:none;
 	margin:0;
 }
 
-#vertical-menu ul li{
-	position:relative;
-	width:100%;
-	z-index:-1;
-}
-
-#vertical-menu ul ul{
-	transition: all 0.3s;
-	position:relative;
-	left:85%;
-	display:none;
-	top:2%;
-}
-
-#vertical-menu ul li a:hover  {
-	display:block;
-}
-
-#vertical-menu ul li a {
+#vertical-menu a {
     background-color: #f1f1f1;
     color: black;
     display: block;
@@ -256,28 +218,24 @@ input[type=text]:focus {
     padding: 4% 6%;
 }
 
-#vertical-menu ul li a:hover {
+#vertical-menu a:hover {
 	background-color:#C91C1C;
-  color:white;
+	color:white;
 	font-style:oblique;
 	cursor:pointer;
 	transition: all 0.4s;
 	text-shadow:1% 1% black;
 }
 
-#vertical-menu ul li a:focus{
-
+#vertical-menu a:focus{
 	background-color:#C91C1C;
-  color:white;
+	color:white;
 	font-style:oblique;
 	font-weight:bold;
 	cursor:pointer;
 	transition: all 0.4s;
 	text-shadow:1.3% 1.3% black;
 }
-
-
-
 
 #iframe{
 	width:100%;
