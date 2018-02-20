@@ -17,7 +17,7 @@
                 </form>
               <ul class="ul1">
                     <div id="cart">
-                          <li class="li1"><a href="cart.php" target="_self"><img src="resources/cart.png" style="width:17px; height:15px; padding-bottom:2px;"><cite style="font-size:10.5px;"><br>Cos de cumparaturi</cite></a>
+                          <li class="li1"><a href="comanda.php" target="_self"><img src="resources/cart.png" style="width:17px; height:15px; padding-bottom:2px;"><cite style="font-size:10.5px;"><br>Cos de cumparaturi</cite></a>
                           </li>
                     </div>
                     <div id="cont">
@@ -35,7 +35,7 @@
   <div id="navbar">
           <img src="resources/titlu_b.jpg" style="float:left; width:20%; height:70%; margin-top:0.2%; margin-left:2%; ">
           <div class="cart2">
-                <a href="cart.php" target="_self"><img src="resources/cart.png" style="width:35%; height:45%;margin-bottom:5px;"></a>
+                <a href="cos.php" target="_self"><img src="resources/cart.png" style="width:35%; height:45%;margin-bottom:5px;"></a>
           </div>
           <div class="cont2">
                 <a href="autentificare.php"><img src="resources/client.png" style="width:35%; height:60%;"></a>
@@ -59,17 +59,17 @@
   </div>
   <div id="menu">
     <div id="vertical-menu">
-  
-       <a href="#"><img src="resources/hardware.png" style="width:7%; height:4%; margin-right:3%;">Componente PC</a></li>
-       <a href="#" ><img src="resources/mouse.png" style="width:7%; height:3%; margin-right:3%;">Periferice PC</a></li>
-       <a href="#"><img src="resources/softwere.png" style="width:7%; height:3%; margin-right:3%;">Softwere</a></li>
-       <a href="#"><img src="resources/print.png" style="width:7%; height:3%; margin-right:3%;">Imprimante</a></li>
-       <a href="#"><img src="resources/scaner.png" style="width:8%; height:4%; margin-right:3%;">Scanere</a></li>
-       <a href="#"><img src="resources/camera.png" style="width:8%; height:4%; margin-right:3%;">Retelistica si Supraveghere</a></li>
-       <a href="#"><img src="resources/laptop.png" style="width:8%; height:4%; margin-right:3%;">Laptopuri si Accesorii</a></li>
-       <a href="#" ><img src="resources/joystick.png" style="width:8%; height:4%; margin-right:3%;"> PC Gaming</a></li>
-       <a href="#"><img src="resources/joystick.png" style="width:8%; height:4%;margin-right:3%;">Accesorii PC Gaming</a></li>
-       <a href="#"><img src="resources/playstation.gif" style="width:8%; height:4%; margin-right:3%;">Playstation</a></li>
+
+       <a href="#"><img src="resources/hardware.png" style="width:7%; height:4%; margin-right:3%;">Componente PC</a>
+       <a href="#" ><img src="resources/mouse.png" style="width:7%; height:3%; margin-right:3%;">Periferice PC</a>
+       <a href="#"><img src="resources/softwere.png" style="width:7%; height:3%; margin-right:3%;">Softwere</a>
+       <a href="#"><img src="resources/print.png" style="width:7%; height:3%; margin-right:3%;">Imprimante</a>
+       <a href="#"><img src="resources/scaner.png" style="width:8%; height:4%; margin-right:3%;">Scanere</a>
+       <a href="#"><img src="resources/camera.png" style="width:8%; height:4%; margin-right:3%;">Retelistica si Supraveghere</a>
+       <a href="#"><img src="resources/laptop.png" style="width:8%; height:4%; margin-right:3%;">Laptopuri si Accesorii</a>
+       <a href="#" ><img src="resources/joystick.png" style="width:8%; height:4%; margin-right:3%;"> PC Gaming</a>
+       <a href="#"><img src="resources/joystick.png" style="width:8%; height:4%;margin-right:3%;">Accesorii PC Gaming</a>
+       <a href="#"><img src="resources/playstation.gif" style="width:8%; height:4%; margin-right:3%;">Playstation</a>
 
 </div>
 

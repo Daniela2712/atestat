@@ -174,7 +174,7 @@ input[type=text]:focus {
     color: black;
     padding: 5% 13%;
     text-decoration: none;
-      display: block;
+    display: block;
     text-align: left;
     font-size: 85%;
 }
